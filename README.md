@@ -1,4 +1,8 @@
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-Automation-green)
+
 # Robot Framework - Login Tests
+
+Automated login tests using Robot Framework and Selenium
 
 ## 📌 Descrição
 
